@@ -1,0 +1,17 @@
+Algorithm,Nom fichier,Temps
+selectionSort,fich1.txt,0.0009984970092773438
+bubbleSort,fich1.txt,0.0025081634521484375
+insertionSort,fich1.txt,0.0
+quickSort,fich1.txt,0.003006458282470703
+selectionSort,fich2.txt,0.0
+bubbleSort,fich2.txt,0.0
+insertionSort,fich2.txt,0.0
+quickSort,fich2.txt,0.0
+selectionSort,fich3.txt,0.0
+bubbleSort,fich3.txt,0.0
+insertionSort,fich3.txt,0.0
+quickSort,fich3.txt,0.0
+selectionSort,fich4.txt,0.0
+bubbleSort,fich4.txt,0.0
+insertionSort,fich4.txt,0.0
+quickSort,fich4.txt,0.0
